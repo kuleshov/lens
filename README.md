@@ -3,7 +3,7 @@ Lens: Uncovering bacterial haplotypes from long reads
 
 Rich bacterial communities, such as human microbiome,
 are composed of thousands of stains;
-these strains may greatly differ from each other only  
+these strains may greatly differ from each other only
 in their virulence or in their resistance to antibiotics.
 
 Modern sequencing technologies have difficulty finding
