@@ -131,4 +131,4 @@ The format of `haplotypes.txt` is:
 
 ## Feedback
 
-Please send feedback to Volodymyr Kuleshov: `www.stanford.edu/~kuelshov`.
+Please send feedback to [Volodymyr Kuleshov](http://www.stanford.edu/~kuleshov)
