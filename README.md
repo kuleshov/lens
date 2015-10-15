@@ -1,7 +1,15 @@
-Lens: Uncovering bacterial haplotypes from long reads
-====================================================
+Lens
+====
 
-Rich bacterial communities, such as human microbiome,
+Algorithm for uncovering genomic variants and haplotypes in metagenomes from long reads. Lens was originally introduced in
+
+```
+High-resolution structure of the human microbiome revealed with synthetic long reads.
+Volodymyr Kuleshov, Chao Jiang, Wenyu Zhou, Fereshteh Jahanbani, Serafim Batzoglou, Michael Snyder. 
+Nature Biotechnology, 2015.
+```
+
+Rich bacterial communities, such as the human microbiome,
 are composed of thousands of stains;
 these strains may greatly differ from each other only
 in their virulence or in their resistance to antibiotics.
