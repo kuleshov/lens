@@ -1,7 +1,7 @@
 Lens
 ====
 
-Algorithm for uncovering genomic variants and haplotypes in metagenomes from long reads. Lens was originally introduced in
+Algorithm for uncovering genomic variants and haplotypes in metagenomes from long reads. Lens was proposed in
 
 ```
 High-resolution structure of the human microbiome revealed with synthetic long reads.
@@ -9,20 +9,14 @@ Volodymyr Kuleshov, Chao Jiang, Wenyu Zhou, Fereshteh Jahanbani, Serafim Batzogl
 Nature Biotechnology, 2015.
 ```
 
-Rich bacterial communities, such as the human microbiome,
-are composed of thousands of stains;
-these strains may greatly differ from each other only
-in their virulence or in their resistance to antibiotics.
+The human microbiome is composed of thousands of bacterial stains;
+these strains may greatly differ in their virulence 
+or in their response to antibiotics.
 
-Modern sequencing technologies have difficulty finding
-differences between closely related strains at the SNP 
-resolution. This problem however becomes much easier with longer
-reads such as ones obtained from recent synthetic long read 
-library preparation protocols.
-
-Lens is a software package that detects fine-grained variation
-in metagenomic samples based on long read data and
-assembles these variants into long haplotypes.
+Lens is a software package that detects strain variation
+between organisms of the same bacterial species directly
+from metagenomic samples based on long read data. Lens
+assembles and reports these variants in the form of long haplotypes.
 
 At the core of Lens is a greedy phasing algorithm that
 generalizes single-individual haplotyping algorithms to
