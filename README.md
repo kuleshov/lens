@@ -1,7 +1,7 @@
 Lens
 ====
 
-Algorithm for uncovering genomic variants and haplotypes in metagenomes from long reads. Lens was proposed in
+Algorithm for uncovering genomic variants and haplotypes in metagenomes from long reads. Lens is described in:
 
 ```
 High-resolution structure of the human microbiome revealed with synthetic long reads.
